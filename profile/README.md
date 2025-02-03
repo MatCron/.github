@@ -24,6 +24,34 @@ A Flutter-based mobile application that offers:
 ## 🤝 Collaborators & Partners
 
 We're proud to work with industry leaders in hospitality and mattress manufacturing:
+### Industry Partners
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <img src="https://static.arocdn.com/Sites/50/bellinghamcastle/Assets/Images/logo.svg?v=1" width="200px" alt="Bellingham Castle Logo"/>
+        <br/>
+        <b>Bellingham Castle Hotel</b>
+        <br/>
+        Luxury castle hotel in Ireland
+      </td>
+      <td align="center" width="300px">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4l7eeev_hWGUgyFc1SjcFRAylYhmEuXtiWA&s" width="200px" alt="Swissfeel Logo"/>
+        <br/>
+        <b>Swissfeel</b>
+        <br/>
+        Premium Swiss mattress technology
+      </td>
+      <td align="center" width="300px">
+        <img src="https://api.aircraftit.com/FileCollection(guid'130409ac-8789-44b6-beb3-797a24147330')/Data" width="200px" alt="Redifly Logo"/>
+        <br/>
+        <b>Redifly</b>
+        <br/>
+        Innovative sleep solutions provider
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Hotels & Resorts
 ![Hotel Logo](https://static.arocdn.com/Sites/50/bellinghamcastle/Assets/Images/logo.svg?v=1)
