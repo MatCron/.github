@@ -53,16 +53,6 @@ We're proud to work with industry leaders in hospitality and mattress manufactur
   </table>
 </div>
 
-### Hotels & Resorts
-![Hotel Logo](https://static.arocdn.com/Sites/50/bellinghamcastle/Assets/Images/logo.svg?v=1)
-- 🏰 Bellingham Castle Hotel - Luxury castle hotel in Ireland
-
-### Mattress Manufacturers  
-![Swissfeel Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4l7eeev_hWGUgyFc1SjcFRAylYhmEuXtiWA&s) 
-- 🛏️ Swissfeel - Premium Swiss mattress technology \
-![Redifly Logo](https://api.aircraftit.com/FileCollection(guid'130409ac-8789-44b6-beb3-797a24147330')/Data)
-- ✨ Redifly - Innovative sleep solutions provider
-
 ## 👥 Our Team
 - Sanid
 - Kosy
