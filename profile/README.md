@@ -31,7 +31,7 @@ We're proud to work with industry leaders in hospitality and mattress manufactur
 
 ### Mattress Manufacturers  
 ![Swissfeel Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4l7eeev_hWGUgyFc1SjcFRAylYhmEuXtiWA&s) 
-- 🛏️ Swissfeel - Premium Swiss mattress technology
+- 🛏️ Swissfeel - Premium Swiss mattress technology \
 ![Redifly Logo](https://api.aircraftit.com/FileCollection(guid'130409ac-8789-44b6-beb3-797a24147330')/Data)
 - ✨ Redifly - Innovative sleep solutions provider
 
