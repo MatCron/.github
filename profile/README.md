@@ -55,11 +55,11 @@ We're proud to work with industry leaders in hospitality and mattress manufactur
 </div>
 
 ## 👥 Our Team
-- Sanid
-- Kosy
-- Jason
-- Phillip
-- Ong
+- Sanid Pandey
+- Kosy Ike-Ogoke
+- Jason Njoku
+- Phillip Philip Vadakekalam
+- Ong Lee Xuan
 
 ## 📚 Documentation
 - Backend API: Available at `https://www.matcron.online/swagger`
