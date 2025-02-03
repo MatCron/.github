@@ -61,6 +61,11 @@ We're proud to work with industry leaders in hospitality and mattress manufactur
 - Phillip Philip Vadakekalam
 - Ong Lee Xuan
 
+## 📺 YouTube Channel
+Stay updated with our latest features and tutorials:
+- 🎥 [MatCron YouTube Channel](https://www.youtube.com/@MATCRON-e4o) - Watch our product demos and guides
+
+
 ## 📚 Documentation
 - Backend API: Available at `https://www.matcron.online/swagger`
 - Frontend: Detailed setup instructions in the Frontend repository
