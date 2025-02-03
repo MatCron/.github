@@ -24,6 +24,7 @@ A Flutter-based mobile application that offers:
 ## 🤝 Collaborators & Partners
 
 We're proud to work with industry leaders in hospitality and mattress manufacturing:
+<br/>
 ### Industry Partners
 <div align="center">
   <table>
