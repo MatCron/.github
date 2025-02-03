@@ -1,12 +1,37 @@
-## Hi there 👋
+# Welcome to MatCron 👋
 
-<!--
+MatCron is an innovative mattress tracking system that combines robust backend services with a user-friendly mobile application.
 
-**Here are some ideas to get you started:**
+## 🚀 Our Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### MatCron Backend
+[MatCron Backend](https://github.com/MatCron/MatCron)
+A powerful .NET-based API service built with .NET 8.0 that provides:
+- 🔐 Secure JWT-based authentication
+- 📊 MySQL database integration with Entity Framework Core
+- 🐳 Multi-platform Docker support (Windows, Mac, Linux, Raspberry Pi)
+- 📚 Comprehensive API documentation with Swagger/OpenAPI
+- 🏗️ Clean architecture using Repository Pattern
+
+### MatCron Frontend
+[MatCron Frontend](https://github.com/MatCron/Matcron-Frontend)
+A Flutter-based mobile application that offers:
+- 📱 Cross-platform support (iOS and Android)
+- 🎨 Modern and intuitive user interface
+- 🔄 Real-time data synchronization
+- 📊 Comprehensive mattress tracking features
+
+## 👥 Our Team
+- Sanid
+- Kosy
+- Jason
+- Phillip
+- Ong
+
+
+## 📚 Documentation
+- Backend API: Available at `https://www.matcron.online/swagger`
+- Frontend: Detailed setup instructions in the Frontend repository
+
+## 📝 License
+This project is licensed under the MIT License.
