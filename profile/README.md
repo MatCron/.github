@@ -5,7 +5,7 @@ MatCron is an innovative mattress tracking system that combines robust backend s
 ## 🚀 Our Projects
 
 ### MatCron Backend
-[MatCron Backend](https://github.com/MatCron/MatCron)
+Repository Link: [Click Here](https://github.com/MatCron/MatCron)
 A powerful .NET-based API service built with .NET 8.0 that provides:
 - 🔐 Secure JWT-based authentication
 - 📊 MySQL database integration with Entity Framework Core
@@ -14,11 +14,11 @@ A powerful .NET-based API service built with .NET 8.0 that provides:
 - 🏗️ Clean architecture using Repository Pattern
 
 ### MatCron Frontend
-[MatCron Frontend](https://github.com/MatCron/Matcron-Frontend)
+Repository Link: [Click Here](https://github.com/MatCron/Matcron-Frontend)  
 A Flutter-based mobile application that offers:
-- 📱 Cross-platform support (iOS and Android)
-- 🎨 Modern and intuitive user interface
-- 🔄 Real-time data synchronization
+- 📱 Cross-platform support (iOS and Android)  
+- 🎨 Modern and intuitive user interface  
+- 🔄 Real-time data synchronization  
 - 📊 Comprehensive mattress tracking features
 
 ## 👥 Our Team
