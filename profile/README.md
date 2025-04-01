@@ -28,6 +28,8 @@ A modern, cross-platform mobile application built with Flutter that provides:
 An advanced FastAPI service integrating an AI-powered chatbot for improved user interaction:
 
 - 🤖 **Chatbot**: Real-time, conversational support for users.
+
+  <u>Implemented in the Frontend Flutte</u>
 - 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.
 - 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.
 
