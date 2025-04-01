@@ -28,8 +28,12 @@ A modern, cross-platform mobile application built with Flutter that provides:
 An advanced FastAPI service integrating an AI-powered chatbot for improved user interaction:
 
 - 🤖 **Chatbot**: Real-time, conversational support for users.
-- 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.[Implmented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
-- 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.[Implmented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
+- 🗂️ **Sample Data Training**: Uses training data for improved AI responses.
+- 🔌 **Connection to Existing DB**: For user authentication and session management.
+- 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.  
+  [Implemented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
+- 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.  
+  [Implemented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
 
 ## 🤝 Collaborators & Partners
 
@@ -66,10 +70,10 @@ We're proud to collaborate with industry leaders in hospitality and mattress man
 
 ## 👥 Our Team
 
-- Sanid Pandey 
-- Kosy Ike-Ogoke 
+- Sanid Pandey
+- Kosy Ike-Ogoke
 - Ong Lee Xuan
-- Jason Njoku 
+- Jason Njoku
 - Phillip Philip Vadakekalam
 
 ## 📺 YouTube Channel
