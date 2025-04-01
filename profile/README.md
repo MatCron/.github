@@ -90,6 +90,3 @@ Stay updated with our latest features and tutorials:
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-![Auto Assign](https://github.com/MatCron/demo-repository/actions/workflows/auto-assign.yml/badge.svg) 
-![Proof HTML](https://github.com/MatCron/demo-repository/actions/workflows/proof-html.yml/badge.svg)
