@@ -29,7 +29,7 @@ An advanced FastAPI service integrating an AI-powered chatbot for improved user 
 
 - 🤖 **Chatbot**: Real-time, conversational support for users.
 
-  <u>Implemented in the Frontend Flutte</u>
+<u>Implemented in the Frontend Flutter</u>
 - 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.
 - 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.
 
