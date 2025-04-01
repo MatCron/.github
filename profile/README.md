@@ -28,10 +28,8 @@ A modern, cross-platform mobile application built with Flutter that provides:
 An advanced FastAPI service integrating an AI-powered chatbot for improved user interaction:
 
 - 🤖 **Chatbot**: Real-time, conversational support for users.
-
-<u>Implemented in the Frontend Flutter</u>
-- 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.
-- 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.
+- 🔧 **Fine-Tuned AI**: Powered by custom fine-tuning using JSON data to provide more accurate responses.[Implmented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
+- 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.[Implmented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
 
 ## 🤝 Collaborators & Partners
 
