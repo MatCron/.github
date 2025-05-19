@@ -94,6 +94,7 @@ We're proud to collaborate with industry leaders in hospitality and mattress man
       <td align="center" width="200px">
         <img src="https://media.licdn.com/dms/image/v2/D4E03AQG5z4bt_-HSEQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694200327267?e=1753315200&v=beta&t=WAYP84hfJYSwLkuw-UA9B7mcGZGzVGh8qxQdjUS7hWo" width="120px" style="border-radius: 50%;" alt="Sanid Pandey"/>
         <br/><b>Sanid Pandey</b>
+        <br/><i>Team Lead</i>
       </td>
       <td align="center" width="200px">
         <img src="https://media.licdn.com/dms/image/v2/D4E03AQGjYBDnbrITgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695980418486?e=1753315200&v=beta&t=REE-HzUuvCsqO6N1kOovXHy7n76VmD8uo84nHRsPUks" width="120px" style="border-radius: 50%;" alt="Kosy Ike-Ogoke"/>
