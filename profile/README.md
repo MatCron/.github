@@ -38,8 +38,20 @@ An advanced FastAPI service integrating an AI-powered chatbot for improved user 
 - 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.  
   [Implemented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
 
-### ** MatCron Prototype Interface Design**
-[Figma Link]()
+### **MatCron Prototype Interface Design**
+[Figma Link](https://www.figma.com/design/UcG5FPE8pybCFtc2ZQ46ae/Log-In-Page(App)?node-id=0-1&node-type=canvas&t=PAUlfSERZgtYUVgz-0&fuid=1189251950593237104)
+Matcron introduces user-centered design improvements focusing on accessibility, efficiency, and cross-platform consistency:
+
+- **🌓 Dark Mode**: Reduces eye strain for photosensitive users and night shifts  
+- **🔔 Smart Notifications**: Priority-color coded alerts with collapsible cards  
+- **📱 QR Fail-Safes**: Multi-sensory error feedback (visual/haptic/audio)  
+- **📊 Adaptive Dashboard**: Role-based views with drag-and-drop widgets  
+- **🌍 Multi-Language**: Dynamic layout handling for RTL languages and text expansion  
+- **🤖 AI Chatbot**: Dual-input interface with contextual card responses  
+- **📂 Data Automation**: Drag-and-drop imports with live error highlighting  
+- **📱💻 Responsive Design**: Unified experience across devices with OS-aware components  
+
+Designed through iterative prototyping and user testing, these upgrades maintain intuitive interaction while expanding professional capabilities. 
 
 ## 🤝 Collaborators & Partners
 
