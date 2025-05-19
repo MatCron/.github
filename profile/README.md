@@ -38,6 +38,9 @@ An advanced FastAPI service integrating an AI-powered chatbot for improved user 
 - 🗣️ **Speech-to-Text & Text-to-Speech**: Leverages speech recognition and synthesis for enhanced accessibility.  
   [Implemented on Flutter](https://github.com/MatCron/Matcron-Frontend/tree/ChatBot)
 
+### ** MatCron Prototype Interface Design**
+[Figma Link]()
+
 ## 🤝 Collaborators & Partners
 
 We're proud to collaborate with industry leaders in hospitality and mattress manufacturing to provide the best solutions for our users.
