@@ -105,6 +105,3 @@ Stay updated with our latest features and tutorials:
 - **Backend API**: Available at `https://www.matcron.online/swagger`
 - **Frontend**: Detailed setup instructions in the [Frontend repository](https://github.com/MatCron/Matcron-Frontend)
 
-## 📝 License
-
-This project is licensed under the MIT License.
