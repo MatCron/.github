@@ -40,6 +40,7 @@ An advanced FastAPI service integrating an AI-powered chatbot for improved user 
 
 ### **MatCron Prototype Interface Design**
 [Figma Link](https://www.figma.com/design/UcG5FPE8pybCFtc2ZQ46ae/Log-In-Page(App)?node-id=0-1&node-type=canvas&t=PAUlfSERZgtYUVgz-0&fuid=1189251950593237104)
+
 Matcron introduces user-centered design improvements focusing on accessibility, efficiency, and cross-platform consistency:
 
 - **🌓 Dark Mode**: Reduces eye strain for photosensitive users and night shifts  
